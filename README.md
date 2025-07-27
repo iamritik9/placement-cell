@@ -110,14 +110,6 @@ npm run build
 
 ---
 
-## 🛠 Future Improvements
-
-- Add Admin Dashboard
-- Email Notifications for Interviews
-- Student Self-Registration and Resume Upload
-- Company Login to manage their slots
-- Real-time Status Updates and Charts
-
 ---
 
 ## 🙋‍♂️ Developed By
